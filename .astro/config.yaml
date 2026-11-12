@@ -1,0 +1,4 @@
+api-server:
+    port: "8082"
+project:
+    name: airflow-currency-etl
